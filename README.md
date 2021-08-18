@@ -13,7 +13,7 @@
   
   - 4.日志资源：
   
-    - 4.1搜索日志
+    - 4.1搜索日志（11篇）
   
       - （十六字）一乐拉面要放鸣人卷-[W1-图书搜索日志-积极心理学](https://docs.qq.com/doc/DQ0ZBbm1sTm1YTEhy)
       - Ö-[搜书日志](https://docs.qq.com/doc/DWmd1dVd3Vk1HZFZV)
@@ -27,8 +27,23 @@
       - opsunny3104	-[搜书日志-积极心理学为例 ](https://docs.qq.com/doc/DT0tZeFlaRVl1dUh5)
       - CC-[W1图书搜索日志-积极心理学](https://shimo.im/docs/3C6HG3JhyygkHwvk/)
   
-    - 4.2目录对比日志
+    - 4.2目录对比日志（14篇）
   
-    - 4.2小作文
-  
+      - 018-[目录对比清洗的日志](https://docs.qq.com/pdf/DTmtlT0FMcUFiRld5)
+      - 橙红-[《W1-目录对比日志-积极心理学 》](https://shimo.im/docs/DCdKKjtwGKDGqqcR/)
+      - Maple-[积极心理学目录对比日志](https://shimo.im/docs/Hk6RvYWCjGyqWGPQ/)
+      - 醉雪-[积极心理学 作业2--目录对比](https://docs.qq.com/doc/DWUlWcmZlREluRktx)
+      - луиза-[作业2-目录对比](https://shimo.im/docs/8qKhHTyjykgjxyTK/)
+      - 举烛-[目录对比日志](https://shimo.im/docs/qjcvRDyqjx36Pg93/)
+      - 三万-在上一篇日志里
+      - Terry-在上一篇日志里
+      - 黄雪-[积极心理学-目录对比](https://www.yuque.com/docs/share/0a4a386a-f97b-4e42-b227-4409749ab741?#)
+      - C罗-[目录对比日志——积极心理学拓荒营](https://shimo.im/docs/rtcvQgdKcWdTVtrP/)
+      - CC-[W1目录分析日志-积极心理学](https://shimo.im/docs/yVC9C8Ypk3JVKwhY/)
+      - 小人物-[W1 目录对比](https://shimo.im/docs/DR3r9kxpQXPGkWJR/)
+      - 清澈溪流-[作业二——目录对比](https://docs.qq.com/doc/DWG1wZUtUaVlwb0ZP)
+      - hAlex-[目录对比](https://note.youdao.com/s/Qlwl9Cef)
+    
+    - 4.3小作文
+    
       
