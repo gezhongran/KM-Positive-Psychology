@@ -6,7 +6,7 @@
 - 目录：
 
   - 1.书单资源：[积极心理学·小全局书单](https://www.douban.com/doulist/143320999/)
-  - 2.路演资源（待更新）
+  - 2.路演资源：[直播回放](https://app8itcpmev8540.h5.xiaoeknow.com/v2/course/alive/l_613c2912e4b04518c612f15f?app_id=app8ItcpMEv8540&pro_id=&type=2&is_redirect=1)
   - 3.小全局报告：
     - [《第一组 积极人生体验 小全局报告》](https://shimo.im/docs/WWkKQTXW6KVj8RTX):48卡 /10229字
     - [《第二组 积极人格特质 小全局报告》](https://shimo.im/docs/pgKk9kWc3QqdxcxG)：77卡 /18745字
